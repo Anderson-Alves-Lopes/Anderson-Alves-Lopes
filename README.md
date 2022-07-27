@@ -1,8 +1,8 @@
-### Olá bem vindo ao meu Perfil no GitHub 👋
+### Olá Bem vindo ao meu Perfil no GitHub 👋
 
- <div>
+ <div style="display:flex">
    <a href="https://github.com/Anderson-AlvesLopes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Alves-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img width="300" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Alves-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Alves-Lopes&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
