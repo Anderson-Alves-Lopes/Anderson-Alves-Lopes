@@ -1,9 +1,9 @@
 ### Olá Bem vindo ao meu Perfil no GitHub 👋
 
- <div style="display:flex">
+ <div style="display:flex; justify-content:space-betweem">
    <a href="https://github.com/Anderson-AlvesLopes">
-   <img width="48.5%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Alves-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img width="48.5%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Alves-Lopes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Anderson-Alves-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Alves-Lopes&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
