@@ -28,8 +28,7 @@
   <a href = "mailto:neno-alveslopes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/anderson-alves-lopes-04670722b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/Anderson-Alves-Lopes
-/Anderson-Alves-Lopes
+   ![Snake animation](https://github.com/Anderson-Alves-Lopes/Anderson-Alves-Lopes/blob/output/github-contribution-grid-snake.svg)
 /blob/output/github-contribution-grid-snake.svg)
 
 </div>
